@@ -32,5 +32,7 @@
 
     rnix-lsp # Nix LSP
     nixfmt # Nix formatter
+
+    onedrive
   ];
 }
